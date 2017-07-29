@@ -1,0 +1,30 @@
+chunk: initdata
+chunkprefix: ImageMetrics-initdata
+fig:
+cacheDB:
+time: 2012-05-19 07:57:18
+
+chunk: objsel
+chunkprefix: ImageMetrics-objsel
+fig:
+cacheDB:
+time: 2012-05-19 07:57:24
+
+chunk: hsvmetrics
+chunkprefix: ImageMetrics-hsvmetrics
+fig:
+cacheDB:
+time: 2012-05-19 07:57:26
+
+chunk: batchproc
+chunkprefix: ImageMetrics-batchproc
+fig:
+cacheDB:
+time: 2012-05-19 07:57:28
+
+chunk: svhist
+chunkprefix: ImageMetrics-svhist
+fig: ImageMetrics-svhist.tikz
+cacheDB:
+time: 2012-05-19 07:57:29
+

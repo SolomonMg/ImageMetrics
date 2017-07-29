@@ -1,0 +1,5 @@
+importFrom(graphics, plot)
+exportMethods(plot, show)
+#export(ImageMetrics)
+exportPattern("^[[:alpha:]]+")
+exportClassPattern("^[[:alpha:]]+")
